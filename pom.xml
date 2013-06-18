@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>vkbeautify</artifactId>
-    <version>0.99.00.beta</version>
+    <version>0.99.01.beta-SNAPSHOT</version>
     <name>vkBeautify</name>
     <description>WebJar for vkBeautify</description>
     <url>http://webjars.org</url>
@@ -41,7 +41,7 @@
         <url>http://github.com/webjars/vkbeautify</url>
         <connection>scm:git:https://github.com/webjars/vkbeautify.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/vkbeautify.git</developerConnection>
-        <tag>vkbeautify-0.99.00.beta</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
